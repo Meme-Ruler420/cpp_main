@@ -43,5 +43,3 @@ int main(){
     obj1.calculate();
     obj1.show();
 }
-
-
